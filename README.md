@@ -104,11 +104,11 @@ The **fully run Colab notebook** contains:
 1. Clone the repository:
 
 ```bash
-git clone <repo_url>
-cd CIFAKE
+git clone https://github.com/SiddarthAA/FaceTheFuture-Team-wbs.git
+cd FaceTheFuture-Team-wbs
 ```
 
-2. Open the **Colab notebook**: [CIFAKE Ensemble Notebook](https://colab.research.google.com/drive/1cx4TYwsV8PXgJbzda-4LKv3AoL-QaoRq?usp=sharing)
+2. Open the **Colab notebook**: [FaceTheFuture | Team-wbs](https://colab.research.google.com/drive/1cx4TYwsV8PXgJbzda-4LKv3AoL-QaoRq?usp=sharing)
 
 3. Follow the notebook cells to **train models, run ensemble, and generate predictions**.
 
